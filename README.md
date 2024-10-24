@@ -1,5 +1,6 @@
 # valencia-zombie
  El mejor juego de zombies de la historia
 
+Algo va aquÃ­-
 
-Consigue tu copia [aquí](https://www.upv.es)
+Consigue tu copia [aquï¿½](https://www.upv.es)
